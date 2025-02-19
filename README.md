@@ -1,3 +1,5 @@
+![Iowa Clinic Logo Green](https://github.com/user-attachments/assets/66fb2886-0a66-41a8-abb3-a1d08296c19f)
+
 # Data Pipeline - ETL for Coder Scorecard
 
 ## Overview
