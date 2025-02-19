@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/66fb2886-0a66-41a8-abb3-a1d08296c19f" alt="Iowa Clinic Logo Green" width="500"/>
+    <img src="https://github.com/user-attachments/assets/66fb2886-0a66-41a8-abb3-a1d08296c19f" alt="Iowa Clinic Logo Green" width="700"/>
 </div>
 
 # Data Pipeline - ETL for Coder Scorecard
