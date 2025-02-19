@@ -80,7 +80,7 @@ git clone <repo here>
 ```
 2. Navigate to the project directory:
 ```bash
-cd CoderScorecard
+cd ./CoderScorecard
 ```
 
 ## Usage
