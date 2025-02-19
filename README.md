@@ -90,7 +90,7 @@ python file.py
 ```
 
 ## Troubleshooting
-What would be some potential troubleshooting methods? Logging, libraries, permissions, etc?
+What would be some potential troubleshooting situations and how would we fix them? Logging, libraries, permissions, etc?
 
 ## Contact Information
 For questions or support, please contact:
